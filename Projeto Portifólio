@@ -13,14 +13,16 @@
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou Lilian Lésley_</p>
-        <h1>Eu ensino Matemática</h1>
-        <p>Sou Estudante do EM e Bailarina. Ensino matemática para estudantes do Ensino Fundamental nas horas vagas.
+        <h1>Eu ensino Educação Física</h1>
+        <p>Sou Pós-Graduada em Educação Física e Nutriçao. Ensino fundamentos e conseitos do corpo e alimentação para estudantes universitários.
+Ensino sobre condicionamento físico usando Polar GoFit, Impulsiona, EAD Plataforma, IEE. Veja os projetos
+            que já desenvolvi!</p>
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">Dança</p>
-            <p class="badge bg-secondary">Musica</p>
-            <p class="badge bg-secondary">Design Grafico</p>
-            <p class="badge bg-secondary">Canva</p>
+            <p class="badge bg-secondary">Polar GoFit</p>
+            <p class="badge bg-secondary">Impulsiona</p>
+            <p class="badge bg-secondary">EAD Plataforma</p>
+            <p class="badge bg-secondary">IEE</p>
         </div>
     </header>
     <main class="container">
